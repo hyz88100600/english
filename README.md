@@ -7,3 +7,4 @@ JDK source code
 other language(python,golang etc)
 finance business[ˈbɪznəs]
 other technology (docker,k8s etc)
+algorithm
