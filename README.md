@@ -1,1 +1,1 @@
-record the processing of learning english
+record the process of learning english
